@@ -1,4 +1,4 @@
-It's a convention to start learning a new programming language by writing a program that prints `"Hello, World!"` to the console.
+It's a convention to start learning a new programming language by writing a program that prints `"Hello, world!"` to the console.
 
 In Rust, we can do this using the `println!` macro. The `!` indicates that this is a **macro** rather than a **function**.
 
@@ -25,5 +25,5 @@ Write a program that prints `"Hello, World!"` to the console using the `println!
 ## Expected Output
 
 ```rust
-Hello, World!
+Hello, world!
 ```
